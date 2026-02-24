@@ -26,22 +26,6 @@ It showcases my skills, projects, and contact information with a clean and moder
 
 ---
 
-## 📂 Project Structure
-
-```
-karena-portfolio/
-│
-├── app/
-│   ├── page.tsx
-│   ├── layout.tsx
-│
-├── public/
-├── package.json
-└── README.md
-```
-
----
-
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone the repository
@@ -89,7 +73,6 @@ npm run build
 The easiest way to deploy this Next.js project is using:
 
 - Vercel (Recommended)
-- Netlify
 
 ---
 
